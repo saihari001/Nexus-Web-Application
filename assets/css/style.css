@@ -249,7 +249,7 @@ figure {
 .header .btn { display: none; }
 
 .header {
-  background-image: url(/assets/image/Pngtree_dark_green_cyan_paper_cut_1225583.jpg);
+  background-image: url(/assets/image/hero_bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -297,7 +297,7 @@ figure {
 }
 
 .navbar {
-  background-image: url(/assets/image/—Pngtree—dark\ green\ cyan\ paper\ cut_1225583.jpg);
+  background-image: url(/assets/image/hero_bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -587,7 +587,7 @@ figure {
 \* ------------- */
 
 .footer-top {
-    background-image: url(/assets/image/Pngtree_dark_green_cyan_paper_cut_1225583.jpg);
+    background-image: url(/assets/image/hero_bg.jpg);
     padding-block: 20px;
     color: var(--white);
 }
@@ -814,7 +814,6 @@ figure {
     .header.active{
         transform: translateY(-100%);
         padding-block: 20px;
-        opacity: 10;
         box-shadow: var(--shadow-1);
         animation: slidein 0.5s ease-in forwards;
     }
